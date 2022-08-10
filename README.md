@@ -1,2 +1,2 @@
 # professional_portfolio
-A portfolio to demo my professional + academic accomplishments 
+A portfolio that demos my professional + academic accomplishments in the areas of data analytics and machine learning.
